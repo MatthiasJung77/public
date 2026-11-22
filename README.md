@@ -65,9 +65,17 @@ Alles liegt offen und strukturiert vor. Nimm es als Werkzeug, nicht als Ersatz f
 
 ## Profil
 
-Matthias Jung ist Consultant und CTrO mit über 24 Jahren Erfahrung in der Konzeption und dem Betrieb komplexer Datenbankinfrastrukturen. Als Oracle ACE mit dem Schwerpunkt MySQL zählt er zu den profiliertesten MySQL- und MariaDB-Experten im deutschsprachigen Raum und hat als Mitgründer der DOAG SIG MySQL die deutsche Datenbank-Community maßgeblich mitgeprägt.
-
-Heute berät er Organisationen beim strategischen Aufbau von Data Governance, datengetriebenen Prozessen und moderner Digital Transformation, mit dem Anspruch, aus Daten nicht nur Informationen, sondern belastbare Entscheidungsgrundlagen zu machen. Als gefragter Konferenzsprecher auf DOAG, TDWI und IT-Tage verbindet er technische Tiefe mit dem Blick für organisatorische und kulturelle Veränderungsprozesse.
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <img src="assets/bilder/matthias-jung.jpg" alt="Matthias Jung" width="100%">
+    </td>
+    <td valign="top">
+      <p>Matthias Jung ist Consultant und CTrO mit über 24 Jahren Erfahrung in der Konzeption und dem Betrieb komplexer Datenbankinfrastrukturen. Als Oracle ACE mit dem Schwerpunkt MySQL zählt er zu den profiliertesten MySQL- und MariaDB-Experten im deutschsprachigen Raum und hat als Mitgründer der DOAG SIG MySQL die deutsche Datenbank-Community maßgeblich mitgeprägt.</p>
+      <p>Heute berät er Organisationen beim strategischen Aufbau von Data Governance, datengetriebenen Prozessen und moderner Digital Transformation, mit dem Anspruch, aus Daten nicht nur Informationen, sondern belastbare Entscheidungsgrundlagen zu machen. Als gefragter Konferenzsprecher auf DOAG, TDWI und IT-Tage verbindet er technische Tiefe mit dem Blick für organisatorische und kulturelle Veränderungsprozesse.</p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
