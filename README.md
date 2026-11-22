@@ -1,56 +1,131 @@
-<h1 align="center">Matthias Jung · Öffentliche Sammlung</h1>
-
 <p align="center">
-  Prompts, Skills, Folien und Dokumente aus meiner Arbeit, frei zum Lesen, Ausprobieren und Weiterdenken.
+  <img src="assets/grafik/banner.svg" alt="Matthias Jung · Denken mit Struktur · Öffentliche Sammlung" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://matthiasjung.net">matthiasjung.net</a> ·
-  <a href="https://blog.ordix.de/matthias-jung">Blog</a> ·
-  <a href="https://www.linkedin.com/in/matthias-jung-ordixag/">LinkedIn</a> ·
-  <a href="https://thinkwithai.matthiasjung.net">Think with AI</a>
+  <strong>Chief Transformation Officer (CTrO)</strong>
 </p>
 
----
+<p align="center">
+  <em>Meine Mission: Aus Daten Informationen formen, aus Informationen Erkenntnisse gewinnen und aus Erkenntnissen digitale Wirkung entfalten.</em>
+</p>
+
+<p align="center">
+  <a href="https://matthiasjung.net"><img src="https://img.shields.io/badge/matthiasjung.net-1B4332?style=flat-square" alt="matthiasjung.net"></a>
+  <a href="https://notes.matthiasjung.net"><img src="https://img.shields.io/badge/Prompt%20Library-52B788?style=flat-square" alt="Prompt Library"></a>
+  <a href="https://concepts.matthiasjung.net"><img src="https://img.shields.io/badge/Concepts-1E3A5F?style=flat-square" alt="Concepts"></a>
+  <a href="https://speaker.matthiasjung.net"><img src="https://img.shields.io/badge/Speaker-1B4332?style=flat-square" alt="Speaker"></a>
+  <a href="https://www.linkedin.com/in/matthias-jung-ordixag/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<br>
 
 ## Willkommen
 
-> **PLATZHALTER:** Zwei bis drei Sätze in deinen eigenen Worten: Warum gibt es diese Sammlung, und für wen ist sie gedacht?
+Schön, dass du hier bist. In diesem Repository teile ich, was in meiner Arbeit mit Daten, KI und Transformation entsteht: Prompts, die ich täglich nutze, Skills für Agenten, Folien aus meinen Vorträgen und Dokumente zum Nachlesen.
 
-In diesem Repository veröffentliche ich Arbeitsergebnisse, die sich in Projekten, Vorträgen und im Alltag mit KI bewährt haben. Alles ist so abgelegt, dass man es direkt nutzen oder als Ausgangspunkt für eigene Varianten nehmen kann.
+Alles liegt offen und strukturiert vor. Nimm es als Werkzeug, nicht als Ersatz fürs eigene Denken: ausprobieren, anpassen, weiterentwickeln.
 
-## Über mich
+<br>
 
-Ich bin Chief Transformation Officer (CTrO) bei der ORDIX AG in Wiesbaden, Oracle ACE Pro, Autor und Speaker. Seit über 24 Jahren berate ich Unternehmen zu Datenbankinfrastrukturen, Data Governance und digitaler Transformation. Als Oracle ACE Pro mit Schwerpunkt MySQL und Mitgründer der DOAG SIG MySQL habe ich die deutsche Datenbank-Community mitgeprägt.
+## Entdecken
 
-Heute geht es mir darum, aus Daten nicht nur Informationen, sondern belastbare Entscheidungsgrundlagen zu machen, mit dem Blick für organisatorische und kulturelle Veränderungsprozesse.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Prompts</h3>
+      Erprobte Prompts und Vorlagen für Sprachmodelle, sortiert nach Thema und mit Hinweisen zum Einsatz.
+      <br><br>
+      <a href="prompts/"><strong>Zu den Prompts →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Skills</h3>
+      Wiederverwendbare Skills für Claude und andere Agenten, jeweils mit <code>SKILL.md</code> und Hilfsdateien.
+      <br><br>
+      <a href="skills/"><strong>Zu den Skills →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎤 Folien</h3>
+      Folien aus Vorträgen, Webinaren und Workshops, geordnet nach Jahr und Anlass.
+      <br><br>
+      <a href="folien/"><strong>Zu den Folien →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Dokumente</h3>
+      Artikel, Checklisten und Handouts zum Nachlesen und Weitergeben.
+      <br><br>
+      <a href="dokumente/"><strong>Zu den Dokumenten →</strong></a>
+    </td>
+  </tr>
+</table>
 
-**Themen:** MySQL · MariaDB · PostgreSQL · Oracle · Data Governance · KI · Digitale Souveränität · Open Source
+<br>
 
-**Ausgewählte Veröffentlichungen**
+## Profil
 
-- Buch **Think with AI** (Juli 2026), [Website](https://thinkwithai.matthiasjung.net)
-- Über 100 Blog-Artikel auf [blog.ordix.de](https://blog.ordix.de/matthias-jung)
-- Vollständiger Katalog auf [matthiasjung.net](https://matthiasjung.net/catalog.html)
+Matthias Jung ist Consultant und CTrO mit über 24 Jahren Erfahrung in der Konzeption und dem Betrieb komplexer Datenbankinfrastrukturen. Als Oracle ACE mit dem Schwerpunkt MySQL zählt er zu den profiliertesten MySQL- und MariaDB-Experten im deutschsprachigen Raum und hat als Mitgründer der DOAG SIG MySQL die deutsche Datenbank-Community maßgeblich mitgeprägt.
 
-## Was du hier findest
+Heute berät er Organisationen beim strategischen Aufbau von Data Governance, datengetriebenen Prozessen und moderner Digital Transformation, mit dem Anspruch, aus Daten nicht nur Informationen, sondern belastbare Entscheidungsgrundlagen zu machen. Als gefragter Konferenzsprecher auf DOAG, TDWI und IT-Tage verbindet er technische Tiefe mit dem Blick für organisatorische und kulturelle Veränderungsprozesse.
 
-| Ordner | Inhalt |
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>407</h2><sub>PUBLIKATIONEN</sub></td>
+    <td align="center" width="25%"><h2>119</h2><sub>BLOG-ARTIKEL</sub></td>
+    <td align="center" width="25%"><h2>31</h2><sub>VORTRÄGE</sub></td>
+    <td align="center" width="25%"><h2>24</h2><sub>JAHRE</sub></td>
+  </tr>
+</table>
+
+<sub>Stand: November 2026, laut <a href="https://matthiasjung.net">matthiasjung.net</a>. Alle Publikationen im <a href="https://matthiasjung.net/catalog.html">Publikationskatalog</a>.</sub>
+
+<br>
+
+## Bücher
+
+| | |
 |---|---|
-| [`prompts/`](prompts/) | Prompts und Prompt-Vorlagen für Sprachmodelle |
-| [`skills/`](skills/) | Skills für Claude und andere Agenten, jeweils mit `SKILL.md` |
-| [`folien/`](folien/) | Vortragsfolien, sortiert nach Jahr und Anlass |
-| [`dokumente/`](dokumente/) | Artikel, Whitepaper, Checklisten und Handouts |
-| [`assets/`](assets/) | Bilder und gemeinsam genutzte Dateien |
+| **Sich die Antwort verdienen** · *Oktober 2026* | Wie du mit KI wächst, statt an ihr zu verkümmern. Praxisbuch zum GenAI Guardrail Framework, gemeinsam mit Tobias Flüter. [Bestellen](https://amzn.eu/d/0cUq4ZgL) |
+| **Think with AI** · *Juli 2026* | KI nicht als Ersatz für Denken, sondern als Werkzeug, das unsere Fähigkeiten stärkt. [Zum Buch](https://thinkwithai.matthiasjung.net) |
+| **Think with Data** | Ein Data-Literacy-Buch für den Alltag. Daten sollten unser Denken unterstützen, nicht manipulieren. [Zum Buch](https://thinkwithdata.matthiasjung.net) |
 
-Jeder Ordner hat eine eigene README mit Hinweisen zur Ablage. Neue Kategorien (zum Beispiel `code/` oder `vorlagen/`) lassen sich jederzeit nach demselben Muster ergänzen.
+<br>
 
-## Nutzung und Lizenz
+## Themen, Plattformen, Netzwerk
 
-Die Inhalte dieses Repositorys stehen unter der Lizenz [Creative Commons Namensnennung, nicht kommerziell 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de). Du darfst sie teilen und bearbeiten, solange du mich als Urheber nennst und sie nicht kommerziell nutzt. Den vollständigen Lizenztext findest du in [`LICENSE`](LICENSE).
+**Meine Themen:** [MySQL & MariaDB](https://matthiasjung.net/mysql.html) · Data Governance · AI Literacy · Digital Transformation
+
+**Meine Plattformen:** [LinkedIn](https://www.linkedin.com/in/matthias-jung-ordixag/) · [ORDIX Blog](https://blog.ordix.de/matthias-jung) · [Notes](https://notes.matthiasjung.net) · [Concepts](https://concepts.matthiasjung.net) · [Publikationskatalog](https://matthiasjung.net/catalog.html)
+
+**Mein Netzwerk:** Oracle ACE · DOAG · TDWI · IT-Tage · ORDIX
+
+<br>
+
+## Lass uns sprechen
+
+Interessiert an Zusammenarbeit oder Beratung? Ich freue mich auf den Austausch mit dir.
+
+<a href="https://www.linkedin.com/in/matthias-jung-ordixag/"><img src="https://img.shields.io/badge/%C3%9Cber%20LinkedIn%20kontaktieren-1B4332?style=for-the-badge&logo=linkedin&logoColor=white" alt="Über LinkedIn kontaktieren"></a>
+
+<br>
+
+## Lizenz
+
+Die Inhalte dieses Repositorys stehen unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de). Du darfst sie teilen und bearbeiten, solange du mich als Urheber nennst und sie nicht kommerziell nutzt. Den vollständigen Text findest du in [`LICENSE`](LICENSE).
 
 Für eine kommerzielle Nutzung sprich mich gerne an.
 
-## Kontakt
+---
 
-Am einfachsten erreichst du mich über [LinkedIn](https://www.linkedin.com/in/matthias-jung-ordixag/) oder über [matthiasjung.net](https://matthiasjung.net).
+<p align="center">
+  <sub>
+    <a href="https://matthiasjung.net">matthiasjung.net</a> ·
+    <a href="https://thinkwithai.matthiasjung.net">Think with AI</a> ·
+    <a href="https://thinkwithdata.matthiasjung.net">Think with Data</a> ·
+    <a href="https://notes.matthiasjung.net">Notes</a> ·
+    <a href="https://speaker.matthiasjung.net">Speaker</a> ·
+    <a href="https://concepts.matthiasjung.net">Concepts</a> ·
+    <a href="https://blog.ordix.de/matthias-jung">ORDIX Blog</a>
+  </sub>
+</p>
