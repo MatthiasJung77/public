@@ -51,7 +51,9 @@ Jeder Ordner hat eine eigene README mit Hinweisen zur Ablage. Neue Kategorien (z
 
 ## Nutzung und Lizenz
 
-> **PLATZHALTER:** Lizenz noch offen. Bis eine `LICENSE`-Datei vorhanden ist, gelten die gesetzlichen Standardrechte.
+Die Inhalte dieses Repositorys stehen unter der Lizenz [Creative Commons Namensnennung, nicht kommerziell 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de). Du darfst sie teilen und bearbeiten, solange du mich als Urheber nennst und sie nicht kommerziell nutzt. Den vollständigen Lizenztext findest du in [`LICENSE`](LICENSE).
+
+Für eine kommerzielle Nutzung sprich mich gerne an.
 
 ## Kontakt
 
