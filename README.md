@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/bilder/logo.png" alt="Logo" width="120">
-</p>
-
 <h1 align="center">Matthias Jung · Öffentliche Sammlung</h1>
 
 <p align="center">
